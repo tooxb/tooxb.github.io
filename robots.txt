@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tooxb.github.io/kGV/sitemap.kGV.gz
